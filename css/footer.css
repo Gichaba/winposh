@@ -1,0 +1,12 @@
+
+footer {
+  bottom: 0;
+  left: 0;
+  height: 70px;
+  background-color: darkgrey;
+  width: 100%;
+  content:center
+}
+body {
+  margin-bottom: 120px;
+}
